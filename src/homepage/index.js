@@ -12,18 +12,20 @@
 				user: {
 					username: 'tatis',
 					avatar: 'avatar-tati.jpg'
-				},
+				},  
 				url: 'http://materializecss.com/images/office.jpg',
-				likes: 10,
-				liked: true
+				likes: 0,
+				liked: true,
+				createdAt: new Date()
 			},{
 				user: {
 					username: 'slifszyc',
 					avatar: 'avatar-tati.jpg'
 				},
 				url: 'http://materializecss.com/images/office.jpg',
-				likes: 2,
-				liked: false
+				likes: 1,
+				liked: false,
+				createdAt: new Date().setDate(new Date().getDate()-10)
 			}
 		];
 
