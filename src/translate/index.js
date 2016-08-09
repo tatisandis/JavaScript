@@ -20,5 +20,3 @@ module.exports = {
 	},
 	date: new IntlRelativeFormat(locale)
 }
-
-

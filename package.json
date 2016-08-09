@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "empty-element": "^1.0.0",
-    "express": "^4.13.4",
+    "express": "^4.14.0",
     "gulp-rename": "^1.2.2",
     "intl-messageformat": "^1.3.0",
     "intl-relativeformat": "^1.3.0",
@@ -26,7 +26,7 @@
   },
   "devDependencies": {
     "babelify": "^7.3.0",
-    "browserify": "^13.0.1",
+    "browserify": "^13.1.0",
     "gulp": "^3.9.1",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^2.3.2",

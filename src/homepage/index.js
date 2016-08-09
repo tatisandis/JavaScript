@@ -15,7 +15,7 @@
 				},  
 				url: 'http://materializecss.com/images/office.jpg',
 				likes: 0,
-				liked: true,
+				liked: false,
 				createdAt: new Date()
 			},{
 				user: {
@@ -24,7 +24,7 @@
 				},
 				url: 'http://materializecss.com/images/office.jpg',
 				likes: 1,
-				liked: false,
+				liked: true,
 				createdAt: new Date().setDate(new Date().getDate()-10)
 			}
 		];
